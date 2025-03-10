@@ -6,4 +6,4 @@ Dashboard Tableau Public Link :
 
 https://public.tableau.com/app/profile/mohammad.saquib8248/viz/Hotel_Booking_Dashboard_17415853582000/HotelDashboard
 
-Problem statement : Create a visually appealing dashboard containing various forms of visualizations on key KPIs of Hotel Booking dataset.
+Problem statement: Create a visually appealing dashboard containing various visualizations on key KPIs of the Hotel Booking dataset.
