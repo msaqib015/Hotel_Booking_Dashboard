@@ -19,7 +19,7 @@ For the full license details, see:
 
 ---
 
-## LICENSE file content (save this as `LICENSE` in your repo):
+## LICENSE file content:
 
 ```
 Creative Commons Attribution-NonCommercial 4.0 International Public License (CC BY-NC 4.0)
