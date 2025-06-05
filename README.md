@@ -1,4 +1,4 @@
-# Tableau_Dashboard_on_Hotel_Bookings
+# Hotel_Booking_Dashboard
 
 Dashboard showing appealing visualization on Hotel Booking Dataset.
 
