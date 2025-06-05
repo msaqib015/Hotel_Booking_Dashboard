@@ -1,4 +1,4 @@
-# 📄 `LICENSE`
+LICENSE.md
 
 This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** License.
 
@@ -76,4 +76,3 @@ The license is granted on an "AS IS" basis, without warranties or conditions of 
 ---
 
 For the full license text, visit: https://creativecommons.org/licenses/by-nc/4.0/legalcode
-```
